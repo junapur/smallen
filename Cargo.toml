@@ -1,0 +1,11 @@
+[package]
+name = "smallen"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "just a video compression script"
+repository = "https://github.com/junapur/smallen"
+authors = ["June <junapur@proton.me>"]
+
+
+[dependencies]
